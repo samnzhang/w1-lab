@@ -1,3 +1,3 @@
-# w1-lab-TEAM
+# w1-lab-YOURTEAM
 
 WEN HAO, CHENGJIE
