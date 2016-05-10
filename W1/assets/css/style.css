@@ -1,0 +1,14 @@
+body {
+	font-family: Arial;
+}
+
+h1, h2, h3{
+	color:red;
+}
+#google {
+	font-family: serif;
+}
+
+a:hover {
+	color: green;
+}
